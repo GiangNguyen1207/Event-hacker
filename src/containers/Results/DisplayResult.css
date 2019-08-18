@@ -1,0 +1,119 @@
+.container {
+    margin:auto;
+}
+
+.wrapper-1 button {
+    margin-top: 10px;
+}
+
+.search{
+    margin-top:2.5%;
+}
+
+.Category select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -o-appearance: none;
+    -ms-appearance: none;
+    display: block;
+    width:250px;
+    color: #3a3a3a;
+    background: url(../../images/down-arrow-white.png) no-repeat 95%;
+    background-color: transparent;
+    border: 1px solid #3a3a3a;
+    border-radius: 5px;
+    box-shadow: 1px 2px #999999;
+    font-size: 16px;
+}
+
+.Category option {
+    color: #3a3a3a;
+}
+
+.Input input {
+    width: 350px;
+    padding: 12px 24px;
+    background-color:transparent;
+    border:1px solid #3a3a3a;
+    border-radius: 5px;
+    box-shadow: 1px 2px #999999;
+    font-size: 16px;
+    line-height: 16px;
+    color: #3a3a3a;
+}
+
+.Input ::placeholder {
+    color: #3a3a3a;
+    letter-spacing: 1px;
+}
+
+.search{
+    top:50px;
+}
+
+.container button{
+    padding: 10px 24px;
+}
+
+.Place input {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -o-appearance: none;
+    -ms-appearance: none;
+    display: block;
+    padding: 9px;
+    width: 250px;
+    color:#3a3a3a;
+    background-color: transparent;
+    border: 1px solid #3a3a3a;
+    box-shadow: 1px 2px #999999;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.Place datalist {
+    color: #3a3a3a;
+}
+
+.sort{
+    margin-top: 20px;
+    justify-content: center;
+    color: #3a3a3a;
+    font-size: 16px;
+}
+
+.sort button{
+    padding:0 5px 0 5px;
+    margin-top: 10px;
+}
+
+.filter {
+    margin-top: 20px;
+    color: #3a3a3a;
+    font-size:16px;
+}
+
+.event_list {
+    margin-top: 20px;
+}
+
+.event_list ul {
+    padding-left: 0;
+    list-style-type: none;
+}
+
+@media (max-width:600px) {
+    .wrapper-1 {
+        width: 50%;
+    }
+
+    .sort button{
+        margin-right: 10px;
+    } 
+
+    .event_list {
+        margin-top: 20px;
+    }
+}  
