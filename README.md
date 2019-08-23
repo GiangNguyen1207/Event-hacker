@@ -22,7 +22,7 @@ $ npm --version
 
 Clone the repository 
 ```
-$ https://github.com/GiangNguyen1207/event-hacker.git
+$ https://github.com/GiangNguyen1207/Event-hacker.git
 ```
 
 Install all the dependencies
