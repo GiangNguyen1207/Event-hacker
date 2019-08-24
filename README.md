@@ -2,6 +2,8 @@
 
 A small web app built with Reactjs and Bootstrap. The web app allows users to search for events by category, name or location and see the details of their chosen events. 
 
+Live demo: https://eventhacker.herokuapp.com/
+
 ## Getting started 
 
 Please find below the instructions to get a copy of the project and run on your local machine.
@@ -22,7 +24,7 @@ $ npm --version
 
 Clone the repository 
 ```
-$ https://github.com/GiangNguyen1207/event-hacker.git
+$ https://github.com/GiangNguyen1207/Event-hacker.git
 ```
 
 Install all the dependencies
