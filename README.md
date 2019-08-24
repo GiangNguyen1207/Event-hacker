@@ -1,6 +1,7 @@
 # Event hacker
 
 A small web app built with Reactjs and Bootstrap. The web app allows users to search for events by category, name or location and see the details of their chosen events. 
+Live demo: https://mysterious-ocean-49908.herokuapp.com
 
 ## Getting started 
 
