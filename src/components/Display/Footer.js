@@ -5,7 +5,7 @@ import ScrollButton from "./ScrollButton"
 
 function Footer () {
     return (
-        <div className="footer">
+        <div className="footer fixed-bottom">
             <p>Giang Nguyen</p>
             <a href={"https://www.linkedin.com/in/giang-nguyen-aa8161106/detail/contact-info/"}>
                 <FontAwesomeIcon icon={faLinkedin} size="lg" />
